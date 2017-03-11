@@ -10,17 +10,17 @@
 * IEL - 92b/A
   * Polsemestrálny test - 12/15
   * Cvičenia - 18/18
-  * [Projekt](https://github.com/NoName115/School/blob/master/1.Rocnik/IEL/xkolcu00_Projekt.pdf) - 12/12
+  * [Projekt](./IEL/xkolcu00_Projekt.pdf) - 12/12
   * Skúška - 50/55
 * IUS - 60b/D
-  * [Projekt](https://github.com/NoName115/School/blob/master/1.Rocnik/IUS/IUS_projekt_xkolcu00.pdf) - 28/30
+  * [Projekt](./IUS/IUS_projekt_xkolcu00.pdf) - 28/30
   * Sḱúška - 32/70
 * IZP - 85b/B
-  * [Cvičenia](https://github.com/NoName115/School/tree/master/1.Rocnik/IZP/Cvicenia) - 8/8
-  * [1.Projekt](https://github.com/NoName115/School/tree/master/1.Rocnik/IZP/Projects/Project1) - 5/5
-  * [2.Projekt](https://github.com/NoName115/School/tree/master/1.Rocnik/IZP/Projects/Project2) - 7/7
-  * [3.Projekt](https://github.com/NoName115/School/tree/master/1.Rocnik/IZP/Projects/Project3) - 10/10
-  * [Dokumentácia](https://github.com/NoName115/School/tree/master/1.Rocnik/IZP/Projects/Dokument) - 4/4
+  * [Cvičenia](./IZP/Cvicenia) - 8/8
+  * [1.Projekt](./IZP/Projects/Project1) - 5/5
+  * [2.Projekt](./IZP/Projects/Project2) - 7/7
+  * [3.Projekt](./IZP/Projects/Project3) - 10/10
+  * [Dokumentácia](./IZP/Projects/Dokument) - 4/4
   * Polsemestrálny test - 4/12
   * Skuška - 46/50
   * Bonusové body - +1
@@ -34,12 +34,12 @@
   * Skúška - 43/53
   * Bonusové body - +1
 * INC - 77b/C
-  * [Projekt](https://github.com/NoName115/School/tree/master/1.Rocnik/INC) - 20/20
+  * [Projekt](./INC) - 20/20
   * Polsemestrálny test - 17,5/25
   * Skúška - 39/55
 * IOS - 66b/D
-  * [1.Projekt](https://github.com/NoName115/School/tree/master/1.Rocnik/IOS/proj1) - 15/15
-  * [2.Projekt](https://github.com/NoName115/School/tree/master/1.Rocnik/IOS/proj2) - 13/15
+  * [1.Projekt](./IOS/proj1) - 15/15
+  * [2.Projekt](./IOS/proj2) - 13/15
   * Polsemestrálny test - 4/10
   * Skúška - 34/60
 * ISU - 84b/B
@@ -47,24 +47,24 @@
   * Polsemestrálny test - 15/16
   * Skúška - 49/60
 * IZG 67b/D
-  * [Cvičenia](https://github.com/NoName115/School/blob/master/1.Rocnik/IZG/Cvicenia.zip) - 16/18
-  * [Projekt](https://github.com/NoName115/School/tree/master/1.Rocnik/IZG/Projekt) - 16/18
+  * [Cvičenia](./IZG/Cvicenia.zip) - 16/18
+  * [Projekt](./IZG/Projekt) - 16/18
   * Polsemestrálny test - 8/12
   * Skúška - 27/52
 * IJC - 51b/E
-  * [1.Projekt](https://github.com/NoName115/School/tree/master/1.Rocnik/IJC/proj1) - 12/15
-  * [2.Projekt](https://github.com/NoName115/School/tree/master/1.Rocnik/IJC/proj2) - 12/15
-  * [Skúška](https://github.com/NoName115/School/tree/master/1.Rocnik/IJC/Skuska) - 27/70
+  * [1.Projekt](./IJC/proj1) - 12/15
+  * [2.Projekt](./IJC/proj2) - 12/15
+  * [Skúška](./IJC/Skuska) - 27/70
 * ISJ - 53b/E
-  * [1.Projekt](https://github.com/NoName115/School/tree/master/1.Rocnik/ISJ/proj1) - 12/12
-  * [2.Projekt](https://github.com/NoName115/School/tree/master/1.Rocnik/ISJ/proj2) - 14/14
-  * [3.Projekt](https://github.com/NoName115/School/tree/master/1.Rocnik/ISJ/proj3) - 14/14
+  * [1.Projekt](./ISJ/proj1) - 12/12
+  * [2.Projekt](./ISJ/proj2) - 14/14
+  * [3.Projekt](./ISJ/proj3) - 14/14
   * Polsemestrálny test - 1/9
-  * [Skúška](https://github.com/NoName115/School/tree/master/1.Rocnik/ISJ/Skuska) - 12/51
+  * [Skúška](./ISJ/Skuska) - 12/51
 * ITY - 88b/B
-  * [1.Projekt](https://github.com/NoName115/School/tree/master/1.Rocnik/ITY/Project1) - 8,9/10
-  * [2.Projekt](https://github.com/NoName115/School/tree/master/1.Rocnik/ITY/Project2) - 13,5/15
-  * [3.Projekt](https://github.com/NoName115/School/tree/master/1.Rocnik/ITY/Project3) - 14/15
-  * [4.Projekt](https://github.com/NoName115/School/tree/master/1.Rocnik/ITY/Project4) - 15/15
-  * [5.Projekt](https://github.com/NoName115/School/tree/master/1.Rocnik/ITY/Project5) - 15/15
+  * [1.Projekt](./ITY/Project1) - 8,9/10
+  * [2.Projekt](./ITY/Project2) - 13,5/15
+  * [3.Projekt](./ITY/Project3) - 14/15
+  * [4.Projekt](./ITY/Project4) - 15/15
+  * [5.Projekt](./ITY/Project5) - 15/15
   * Písomka - 22/30

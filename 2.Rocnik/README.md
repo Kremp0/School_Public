@@ -1,8 +1,8 @@
 ## Zoznam predmetov 2016/2017 (Priemer: )
 ### Zimný semester (Priemer: 2,161)
 * IAL - 65b/D
-  * [1.Domáca úloha](https://github.com/NoName115/School/tree/master/2.Rocnik/IAL/ial_2016_du1) - 9/10
-  * [2.Domáca úloha](https://github.com/NoName115/School/tree/master/2.Rocnik/IAL/ial_2016_du2) - 10/10
+  * [1.Domáca úloha](./IAL/ial_2016_du1) - 9/10
+  * [2.Domáca úloha](./IAL/ial_2016_du2) - 10/10
   * Dokumentácia - 3/5
   * Obhajova projektu IFJ - 7/10
   * Polsemestrálna test - 12/14
@@ -17,12 +17,12 @@
   * Cvičenia - 18/30
   * Skúška - 50/70
 * INP - 72b/C
-  * [1.Projekt](https://github.com/NoName115/School/tree/master/2.Rocnik/INP/1_Projekt) - 8/10
-  * [2.Projekt](https://github.com/NoName115/School/tree/master/2.Rocnik/INP/2_Projekt) - 21/23
+  * [1.Projekt](./INP/1_Projekt) - 8/10
+  * [2.Projekt](./INP/2_Projekt) - 21/23
   * Polsemestrálny test - 10/15
   * Skúška - 33/52
 * ISS - 70b/C
-  * [Projekt](https://github.com/NoName115/School/tree/master/2.Rocnik/ISS/Projekt) - 7,5/12
+  * [Projekt](./ISS/Projekt) - 7,5/12
   * Cvičenia - 12/12
   * Polsemestrálny test 20/25
   * Skúška - 30,05/51

@@ -10,6 +10,7 @@
 #include <arpa/inet.h>
 #include <iomanip> // setprecision
 #include <sstream> // stringstream
+#include <math.h>
 
 #include "md5.h"
 
@@ -178,7 +179,6 @@ int main(int argc, char **argv)
             }
             catch (std::exception& err)
             {
-                fprintf(stderr, "%s\n", "SOLVE ERROR");
                 expressionResult = pair <double, string> (0, "ERROR");
             }
 
@@ -189,8 +189,9 @@ int main(int argc, char **argv)
             }
             else
             {
+                double correctNumber = floor(expressionResult.first * 100) / 100;
                 stringstream stream;
-                stream << fixed << setprecision(2) << expressionResult.first;
+                stream << fixed << setprecision(2) << correctNumber;
                 string fixedResult = stream.str();
                 resultMessage = "RESULT " + fixedResult + "\n";
             }

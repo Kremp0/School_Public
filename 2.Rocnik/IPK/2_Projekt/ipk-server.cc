@@ -120,7 +120,8 @@ int main(int argc, char **argv)
             sendExpression(commSocket, "6 / 0");
             sendExpression(commSocket, "20 - 13");
             sendExpression(commSocket, "128 + 789");
-            sendExpression(commSocket, "1225 / 1000");
+            sendExpression(commSocket, "1225087900000 / 1000");
+            sendExpression(commSocket, "12268 / 1000");
 
             // Send ASDCXV - Ignore
             string asdMessage = "ASDCXV UNKOWN\n";

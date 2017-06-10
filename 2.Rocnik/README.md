@@ -43,18 +43,18 @@
   * 1.časť - Projekt - 5/5
   * 2.časť - Projekt - 5/5
   * 3.časť - Projekt - 5/5
-  * 4\. a 5.časť - Projekt - 13/19
+  * [4\. a 5.časť - Projekt](./IDS) - 13/19
   * Polesmestrálny test - 9,5/15
   * Skúška - 17/51
 * IPK - 53,4/E
-  * 1.Projekt - 0/10
-  * 2.Projekt - 20/20
+  * [1.Projekt](./IPK/1_Projekt) - 0/10
+  * [2.Projekt](./IPK/2_Projekt) - 20/20
   * Polsemestrálny test - 5,4/10
   * Skúška - 25/60
   * Bonusové body - +3
 * IPP - 54/E
-  * 1.Projekt - PHP5.6 - 8/10
-  * 2.Projekt - Python3.6 - 9/10
+  * [1.Projekt](./IPP/1_Projekt) - PHP5.6 - 8/10
+  * [2.Projekt](./IPP/2_Projekt) - Python3.6 - 9/10
   * Polemestrálny test - 7/20
   * Skúška - 30/60
 * IZU - 54/E
@@ -62,16 +62,16 @@
   * Polsemetrálny test - 2/20
   * Skúška - 33/60
 * IJA - 92/A
-  * 1.Úloha - 4/4
-  * 2.Úloha - 4/4
-  * 3.Úloha - 4/4
+  * [1.Úloha](./IJA/1_Uloha) - 4/4
+  * [2.Úloha](./IJA/2_Uloha) - 4/4
+  * [3.Úloha](./IJA/3_Uloha) - 4/4
   * [Projekt](https://github.com/NoName115/Java_School) - 82/90
 * IAN - 88/B
-  * 1.Úloha - 18/20
-  * 2.Úloha - 19/20
+  * [1.Úloha](./IAN/xkolcu00_IAN_1_DU.txt) - 18/20
+  * [2.Úloha](./IAN/xkolcu00_IAN_2_DU.txt) - 19/20
   * 3.Úloha - 20/20
   * Skúška - 31/40
 * IVS - 81,5/B
-  * 1.Projekt - 16/18
+  * [1.Projekt](./IVS/ivs_project_1) - 16/18
   * 2.Projekt - 46/52
   * Polsemestrálna skúška - 19,5/30

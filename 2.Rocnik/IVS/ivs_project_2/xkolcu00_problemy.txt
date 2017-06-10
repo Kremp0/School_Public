@@ -1,0 +1,12 @@
+Myslím si že náś tím nemal výrazné problémy pri riešení tohto projektu, avšak vylepšenia v niektrorých 
+oblastiach pri tvorbe projektu by boli určite prínosom.
+ - Termíný boli najváčší nepriateľ nášho tímu, vzhľadom na to že sme sa nadcenili a nezobrali v potaz projekty
+   na ostatné predmety a tým pádom sme si dali veľmi skoré termíny tak plán práce sa v niekoľkých bodoch
+   oneskoril a bolo to potrebné dobehnúť behom posledého týždna.
+ - Komunikácia v tíme bola vyhovujúca, každý člen tímu spoločnú konverzáciu čítal a vecne reagoval.
+ - Spoluprácu tak isto chválim, ak mal člen tímu problém s riešením problému zvyšok tímu mu bol nápomocný.
+ - Vzhladom na to že som bol vedúcim ja, tak osobne si myslím že som si všetky povinnosti splnil.
+ - S aktivitou som bol celkovo v tíme tak isto spokojný, kedže aktívna vola väčšina tímu tak projekt
+   sa pohyboval dopredu.
+ - Kedže každý člen tímu už mal skúsenosti ako s Git-om a Python-om, tak nástroje netvorili problém.
+   A nové nástroje na tvorbu inštalatóru a GUI, bolo jednoduché sa naučit a použiť ich.

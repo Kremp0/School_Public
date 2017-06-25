@@ -1,8 +1,8 @@
 ## Zoznam predmetov 2015/2016 (Priemer: 1,909)
 ### Zimný semester (Priemer: 1,44)
 * IDA - 93b/A
-  * 1.Domaca úloha - 5/5
-  * 2.Domaca úloha - 5/5
+  * [1.Domaca úloha](./IDA/1_DU.pdf) - 5/5
+  * [2.Domaca úloha](./IDA/2_DU.pdf) - 5/5
   * Cvičenia - 10/10
   * Písomny test - 19/20
   * Skúška - 53/60

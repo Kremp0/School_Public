@@ -3,7 +3,7 @@
 * IDA - 93b/A
   * 1.Domaca úloha - 5/5
   * 2.Domaca úloha - 5/5
-  * Počítacove cvičenia - 10/10
+  * Cvičenia - 10/10
   * Písomny test - 19/20
   * Skúška - 53/60
   * Bonusové body - +1
